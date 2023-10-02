@@ -1,4 +1,4 @@
-Username Password
+%Username Password
 admin admin
 fredsmart1 12345678
 jrobertson4 r@=%8(_W=1
@@ -9,5 +9,4 @@ junkman00 p3*(kd8&ld
 sbj2021 $d5e(ep2(d
 robotman 7777Spy007
 Lofty KZOqtxHT
-
 Aruna rtyrty
