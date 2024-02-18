@@ -24,13 +24,13 @@ This Python program is a simple command-line authentication and registration sys
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your_username/login-registration-program.git
-    cd login-registration-program
+    git clone https://github.com/EnragedBlaze/Simple-Login_Register-Program.git
+    cd Simple-Login_Register-Program
     ```
 
 2. **Run the Program**:
     ```bash
-    python login_register.py
+    python main.py
     ```
 
 3. **Follow On-Screen Instructions**:
